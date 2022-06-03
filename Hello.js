@@ -14,3 +14,4 @@ http.createServer((req, res) => {
 
 //http가 가진 함수 createServer() 를 호출하여 a new instance of Server를 반환
 //server인스턴스로 listen()함수를 호출하여 클라이언트의 요청을 받음
+//listen()은 동작이 오래걸릴 수 있기에 내부적으로 비동기 실행함.
