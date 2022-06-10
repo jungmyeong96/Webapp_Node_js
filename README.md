@@ -19,6 +19,6 @@ A web application that saves the resource to the file system by entering the tit
 
 <br />
 
-3. show html by written PUG
+3. show html written by PUG
 
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/55140432/172979291-e05b2f3f-8d31-4147-a256-87666864197c.png">
